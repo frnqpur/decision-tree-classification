@@ -6,6 +6,14 @@ This repository contains a recruiter-facing Decision Tree classification demo bu
 
 The project uses the Adult Income dataset to predict whether an input profile belongs to the `<=50K` or `>50K` income class. The main focus is **model interpretability**, not just prediction. The Streamlit app explains each prediction using the Decision Tree decision path and includes evaluation visuals such as a confusion matrix, classification report, and tree preview.
 
+## Preview
+
+!(screenshots/01-streamlit-demo-overview-1.png)
+
+!(screenshots/01-streamlit-demo-overview-2.png)
+
+---
+
 ## Project focus
 
 - Decision Tree classification
