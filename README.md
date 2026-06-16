@@ -127,7 +127,6 @@ streamlit run app.py
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── README_DEPLOY.md
 └── data/
     └── adult_dataset.csv
 ```
