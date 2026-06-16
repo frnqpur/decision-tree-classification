@@ -36,6 +36,12 @@ This demo avoids that issue by training a clean scikit-learn Pipeline using only
 - Toggle to exclude sensitive attributes: race and sex
 ```
 
+## Live Demo
+
+Try the Streamlit demo here:
+
+https://decision-tree-classification-qzqfvzduowrcp5pfk5edhh.streamlit.app/
+
 ## Tech stack
 
 ```text
