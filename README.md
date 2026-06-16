@@ -166,9 +166,3 @@ The app displays:
 This app is an educational portfolio demo. It should not be used as a production decision system for employment, credit, financial eligibility, or other high-impact decisions.
 
 The dataset includes sensitive attributes such as `race` and `sex`. The app provides an option to exclude those features from model input.
-
-## Portfolio positioning
-
-Recommended wording:
-
-> An interpretability-focused Decision Tree classification demo that turns a legacy ML notebook into a recruiter-ready portfolio project with rule-path explanation, evaluation metrics, and visualization.
