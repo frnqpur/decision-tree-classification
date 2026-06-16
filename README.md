@@ -8,9 +8,9 @@ The project uses the Adult Income dataset to predict whether an input profile be
 
 ## Preview
 
-!(screenshots/01-streamlit-demo-overview-1.png)
+![preview](screenshots/01-streamlit-demo-overview-1.png)
 
-!(screenshots/01-streamlit-demo-overview-2.png)
+![preview](screenshots/01-streamlit-demo-overview-2.png)
 
 ---
 
